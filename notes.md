@@ -3,3 +3,4 @@ g++ -o runProgram filename.cpp
 
 Afterwards, run the program with:
 ./runProgram
+
